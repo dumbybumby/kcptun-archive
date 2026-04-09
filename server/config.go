@@ -23,7 +23,7 @@
 package main
 
 import (
-	"github.com/xtaci/kcptun/std"
+	"github.com/dumbybumby/kcptun-archive/std"
 )
 
 // Config defines the server-side settings supplied via flags or JSON.
