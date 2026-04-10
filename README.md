@@ -2,7 +2,8 @@
 
 > ⚠️ **Project Status Notice**
 >
-> This project is archived and no longer maintained.  
+> This project is a restored repository from the last xtaci/kcptun commit before the wipeout.  
+> It will receive periodic updates from Dependabot, but there is no other work being done here.
 
 [![Powered][17]][18] [![MIT licensed][11]][12] [![Build Status][3]][4] [![Go Report Card][5]][6]
 
