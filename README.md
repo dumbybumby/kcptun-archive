@@ -579,7 +579,8 @@ In summary: `none` keeps the protocol header (plaintext payload), while `null` s
 1. https://zhuanlan.zhihu.com/p/53849089 -- kcptun开发小记
 
 ### Donation
-Click [here](https://github.com/xtaci/xtaci/issues/2) to donate.
+Click [here](https://github.com/xtaci/xtaci/issues/2) if you want to donate to the original developer.
+Also you can thank me for this repo by donating to my TON wallet: UQCJcU4udMJSWopkjnAGugiGceZqcXqhEMU_9vU7JeHF6e2b
 
 
 ***（注意：kcptun没有任何社交网站的账号，请小心骗子。）***
